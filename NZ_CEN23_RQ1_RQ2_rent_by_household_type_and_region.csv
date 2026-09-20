@@ -1,0 +1,145 @@
+census_year,area_code,area,household_type,Total - weekly rent paid by household,Under $200,$200 - $299,$300 - $399,$400 - $499,$500 - $599,$600 - $699,$700 - $799,$800 and over,Total stated - weekly rent paid by household,Not elsewhere included
+2023,9999,Total - New Zealand by regional council,Total - household composition,565974,89439,53325,80247,101067,99042,68544,32286,35712,559659,6312
+2023,9999,Total - New Zealand by regional council,One-family household (with or without other people),321618,36771,22923,40365,62694,68109,47994,21306,19254,319413,2205
+2023,9999,Total - New Zealand by regional council,Two-family household (with or without other people),20886,3099,1350,1782,2682,3507,3375,2235,2721,20754,135
+2023,9999,Total - New Zealand by regional council,Three or more family household (with or without other people),1509,264,96,117,144,168,201,168,336,1497,12
+2023,9999,Total - New Zealand by regional council,Other multi-person household,56640,6423,4350,5802,8349,9507,7746,4917,9168,56259,381
+2023,9999,Total - New Zealand by regional council,One-person household,127074,34998,20772,26712,20601,11745,5298,2094,2385,124602,2469
+2023,9999,Total - New Zealand by regional council,Total stated - household composition,527727,81561,49494,74778,94467,93036,64611,30717,33864,522528,5199
+2023,9999,Total - New Zealand by regional council,Household composition unidentifiable,38247,7878,3831,5469,6600,6006,3930,1566,1851,37134,1113
+2023,01,Northland Region,Total - household composition,18096,3549,2463,3486,3732,2697,1248,336,147,17658,438
+2023,01,Northland Region,One-family household (with or without other people),9843,1398,1056,1791,2373,1896,885,225,75,9705,138
+2023,01,Northland Region,Two-family household (with or without other people),618,114,63,93,141,105,66,21,3,606,12
+2023,01,Northland Region,Three or more family household (with or without other people),48,18,3,6,9,6,3,3,0,48,0
+2023,01,Northland Region,Other multi-person household,1173,219,165,225,225,156,105,27,27,1152,21
+2023,01,Northland Region,One-person household,4479,1314,897,1053,642,267,93,36,24,4329,150
+2023,01,Northland Region,Total stated - household composition,16167,3066,2187,3171,3390,2433,1152,312,132,15843,327
+2023,01,Northland Region,Household composition unidentifiable,1926,483,279,315,345,261,99,24,9,1818,111
+2023,02,Auckland Region,Total - household composition,207531,28113,9909,16734,28827,42645,37143,19629,22899,205899,1632
+2023,02,Auckland Region,One-family household (with or without other people),126456,14109,4995,7080,16251,29433,26676,13461,13815,125820,639
+2023,02,Auckland Region,Two-family household (with or without other people),10773,1686,552,567,777,1551,1926,1524,2124,10710,60
+2023,02,Auckland Region,Three or more family household (with or without other people),936,150,48,60,57,81,129,129,276,930,6
+2023,02,Auckland Region,Other multi-person household,19419,1731,978,1161,2154,3456,3351,2295,4185,19320,102
+2023,02,Auckland Region,One-person household,37407,8322,2772,6837,7764,5661,2928,1233,1395,36918,489
+2023,02,Auckland Region,Total stated - household composition,194994,25995,9348,15705,27003,40182,35010,18648,21801,193695,1296
+2023,02,Auckland Region,Household composition unidentifiable,12540,2115,561,1029,1821,2460,2133,981,1098,12204,336
+2023,03,Waikato Region,Total - household composition,56046,8184,7368,9795,12243,10779,4917,1299,744,55329,717
+2023,03,Waikato Region,One-family household (with or without other people),32004,3423,2946,5187,7938,7551,3435,891,375,31743,258
+2023,03,Waikato Region,Two-family household (with or without other people),1890,228,138,213,375,444,306,120,51,1878,15
+2023,03,Waikato Region,Three or more family household (with or without other people),90,15,9,9,12,15,18,9,6,90,3
+2023,03,Waikato Region,Other multi-person household,4863,618,582,657,993,1014,606,168,180,4818,42
+2023,03,Waikato Region,One-person household,12453,2967,3048,2850,1917,984,261,57,78,12168,288
+2023,03,Waikato Region,Total stated - household composition,51300,7254,6723,8916,11238,10008,4629,1245,687,50694,606
+2023,03,Waikato Region,Household composition unidentifiable,4746,933,645,879,1002,771,288,54,60,4635,111
+2023,04,Bay of Plenty Region,Total - household composition,33333,4521,3114,4650,5976,6912,5349,1575,696,32799,537
+2023,04,Bay of Plenty Region,One-family household (with or without other people),19434,1707,1320,2358,3630,4722,3900,1176,423,19239,195
+2023,04,Bay of Plenty Region,Two-family household (with or without other people),1266,162,96,141,204,258,255,84,51,1251,18
+2023,04,Bay of Plenty Region,Three or more family household (with or without other people),75,15,9,6,12,9,9,6,9,75,0
+2023,04,Bay of Plenty Region,Other multi-person household,2583,309,222,282,444,582,480,141,105,2562,21
+2023,04,Bay of Plenty Region,One-person household,7242,1839,1146,1464,1200,831,378,96,72,7026,216
+2023,04,Bay of Plenty Region,Total stated - household composition,30600,4032,2793,4248,5493,6402,5022,1503,660,30153,444
+2023,04,Bay of Plenty Region,Household composition unidentifiable,2733,492,324,402,486,513,327,69,33,2646,90
+2023,05,Gisborne Region,Total - household composition,5799,1722,834,1056,927,618,351,123,78,5706,96
+2023,05,Gisborne Region,One-family household (with or without other people),3228,819,420,570,615,426,237,72,42,3198,30
+2023,05,Gisborne Region,Two-family household (with or without other people),309,96,36,39,60,42,24,6,6,306,3
+2023,05,Gisborne Region,Three or more family household (with or without other people),27,9,0,6,3,6,0,0,0,27,0
+2023,05,Gisborne Region,Other multi-person household,429,123,54,84,69,39,39,12,9,423,6
+2023,05,Gisborne Region,One-person household,1290,519,237,243,126,60,30,18,18,1248,42
+2023,05,Gisborne Region,Total stated - household composition,5280,1566,744,942,870,573,330,111,72,5205,75
+2023,05,Gisborne Region,Household composition unidentifiable,519,156,87,117,60,45,24,12,9,501,21
+2023,06,Hawke's Bay Region,Total - household composition,17874,4098,2097,2985,3462,2724,1446,465,258,17535,342
+2023,06,Hawke's Bay Region,One-family household (with or without other people),9366,1491,945,1446,2097,1839,987,297,147,9255,111
+2023,06,Hawke's Bay Region,Two-family household (with or without other people),618,138,72,78,108,105,63,36,15,615,6
+2023,06,Hawke's Bay Region,Three or more family household (with or without other people),57,15,6,3,12,9,6,3,3,57,0
+2023,06,Hawke's Bay Region,Other multi-person household,1314,255,156,207,243,207,135,45,36,1284,30
+2023,06,Hawke's Bay Region,One-person household,4374,1590,681,876,648,276,108,33,39,4254,123
+2023,06,Hawke's Bay Region,Total stated - household composition,15729,3492,1860,2610,3108,2433,1302,417,240,15462,267
+2023,06,Hawke's Bay Region,Household composition unidentifiable,2145,603,237,375,354,291,144,51,18,2070,75
+2023,07,Taranaki Region,Total - household composition,12246,2277,2148,2751,2559,1425,609,174,111,12051,198
+2023,07,Taranaki Region,One-family household (with or without other people),6732,882,924,1491,1734,1029,420,120,69,6669,66
+2023,07,Taranaki Region,Two-family household (with or without other people),312,39,39,57,66,51,42,15,3,309,3
+2023,07,Taranaki Region,Three or more family household (with or without other people),15,3,3,3,3,3,3,0,0,15,0
+2023,07,Taranaki Region,Other multi-person household,882,144,135,198,192,111,63,15,15,873,9
+2023,07,Taranaki Region,One-person household,3336,1002,843,801,384,135,48,9,21,3240,96
+2023,07,Taranaki Region,Total stated - household composition,11277,2073,1941,2550,2376,1326,573,159,108,11106,174
+2023,07,Taranaki Region,Household composition unidentifiable,969,207,207,198,180,96,36,12,6,945,27
+2023,08,Manawatū-Whanganui Region,Total - household composition,27297,5820,4395,5898,5451,3537,1176,312,249,26835,462
+2023,08,Manawatū-Whanganui Region,One-family household (with or without other people),14478,2013,1998,3186,3633,2463,768,189,81,14325,150
+2023,08,Manawatū-Whanganui Region,Two-family household (with or without other people),648,78,66,102,150,144,69,21,12,642,6
+2023,08,Manawatū-Whanganui Region,Three or more family household (with or without other people),48,9,6,9,9,9,6,3,0,51,0
+2023,08,Manawatū-Whanganui Region,Other multi-person household,2310,363,294,450,444,396,186,66,69,2277,33
+2023,08,Manawatū-Whanganui Region,One-person household,7833,2865,1743,1749,840,291,66,18,48,7626,204
+2023,08,Manawatū-Whanganui Region,Total stated - household composition,25320,5328,4113,5493,5076,3306,1095,297,213,24924,396
+2023,08,Manawatū-Whanganui Region,Household composition unidentifiable,1977,489,282,405,372,234,81,15,36,1914,63
+2023,09,Wellington Region,Total - household composition,62433,8658,4857,7164,9501,10806,8853,5505,6639,61983,450
+2023,09,Wellington Region,One-family household (with or without other people),32724,3417,1719,2985,5262,7023,5952,3312,2901,32577,150
+2023,09,Wellington Region,Two-family household (with or without other people),1722,279,96,126,189,237,261,246,276,1716,6
+2023,09,Wellington Region,Three or more family household (with or without other people),102,18,9,9,9,15,9,9,27,102,0
+2023,09,Wellington Region,Other multi-person household,8634,603,477,477,729,1137,1245,1302,2640,8604,27
+2023,09,Wellington Region,One-person household,15378,3582,2280,3120,2751,1806,873,402,393,15204,171
+2023,09,Wellington Region,Total stated - household composition,58560,7899,4581,6720,8943,10215,8343,5274,6234,58203,354
+2023,09,Wellington Region,Household composition unidentifiable,3873,762,273,441,558,588,510,234,405,3780,93
+2023,16,Tasman Region,Total - household composition,4434,558,711,810,981,756,411,72,39,4338,93
+2023,16,Tasman Region,One-family household (with or without other people),2565,189,273,435,645,582,327,54,24,2532,33
+2023,16,Tasman Region,Two-family household (with or without other people),102,6,9,18,12,27,15,12,3,102,0
+2023,16,Tasman Region,Three or more family household (with or without other people),3,0,0,0,0,3,0,0,0,3,0
+2023,16,Tasman Region,Other multi-person household,282,36,39,39,69,54,27,3,3,273,9
+2023,16,Tasman Region,One-person household,1149,267,321,252,186,66,24,0,3,1116,33
+2023,16,Tasman Region,Total stated - household composition,4098,501,642,747,909,726,393,72,36,4026,75
+2023,16,Tasman Region,Household composition unidentifiable,336,57,69,66,72,30,18,0,6,315,21
+2023,17,Nelson Region,Total - household composition,5586,756,429,1005,1554,1170,447,90,78,5532,51
+2023,17,Nelson Region,One-family household (with or without other people),3207,267,129,471,1011,867,327,75,42,3186,21
+2023,17,Nelson Region,Two-family household (with or without other people),126,21,6,9,27,30,27,0,3,123,0
+2023,17,Nelson Region,Three or more family household (with or without other people),3,0,0,0,0,0,0,0,0,3,0
+2023,17,Nelson Region,Other multi-person household,465,45,33,72,126,105,51,12,15,459,6
+2023,17,Nelson Region,One-person household,1542,381,246,417,321,108,33,3,15,1524,18
+2023,17,Nelson Region,Total stated - household composition,5343,717,417,969,1491,1107,438,90,75,5298,45
+2023,17,Nelson Region,Household composition unidentifiable,240,39,15,36,66,63,12,3,3,231,9
+2023,18,Marlborough Region,Total - household composition,4686,669,699,1032,1233,720,165,48,42,4605,78
+2023,18,Marlborough Region,One-family household (with or without other people),2661,267,291,549,828,534,117,30,18,2634,27
+2023,18,Marlborough Region,Two-family household (with or without other people),102,9,9,15,33,30,6,0,3,102,0
+2023,18,Marlborough Region,Three or more family household (with or without other people),6,0,0,0,0,3,0,0,0,6,0
+2023,18,Marlborough Region,Other multi-person household,339,45,33,78,90,57,15,9,12,333,6
+2023,18,Marlborough Region,One-person household,1320,300,345,321,231,54,15,6,6,1284,36
+2023,18,Marlborough Region,Total stated - household composition,4431,618,678,963,1182,678,153,48,39,4362,69
+2023,18,Marlborough Region,Household composition unidentifiable,258,54,21,69,51,42,9,0,3,249,9
+2023,12,West Coast Region,Total - household composition,3135,1017,840,855,234,57,9,0,27,3036,99
+2023,12,West Coast Region,One-family household (with or without other people),1311,273,330,486,144,39,3,0,3,1281,27
+2023,12,West Coast Region,Two-family household (with or without other people),42,12,12,12,6,3,0,0,0,42,0
+2023,12,West Coast Region,Three or more family household (with or without other people),0,0,0,0,0,0,0,0,0,0,0
+2023,12,West Coast Region,Other multi-person household,213,54,57,69,21,9,0,0,0,213,3
+2023,12,West Coast Region,One-person household,1287,579,366,225,36,6,3,0,9,1230,57
+2023,12,West Coast Region,Total stated - household composition,2853,918,768,792,204,51,9,0,12,2763,87
+2023,12,West Coast Region,Household composition unidentifiable,282,99,69,60,27,6,0,0,9,270,12
+2023,13,Canterbury Region,Total - household composition,70839,12450,7692,14568,17946,10554,4218,1239,1464,70131,702
+2023,13,Canterbury Region,One-family household (with or without other people),39108,4251,3108,8103,12246,7353,2685,636,501,38883,225
+2023,13,Canterbury Region,Two-family household (with or without other people),1617,168,96,201,396,381,234,75,60,1614,6
+2023,13,Canterbury Region,Three or more family household (with or without other people),66,3,6,6,18,18,12,3,6,66,0
+2023,13,Canterbury Region,Other multi-person household,8076,1026,576,1146,1806,1527,864,396,684,8031,48
+2023,13,Canterbury Region,One-person household,18198,6024,3483,4425,2607,852,255,84,132,17865,333
+2023,13,Canterbury Region,Total stated - household composition,67068,11475,7266,13878,17076,10131,4053,1194,1383,66456,612
+2023,13,Canterbury Region,Household composition unidentifiable,3771,972,426,690,870,423,165,45,81,3675,93
+2023,14,Otago Region,Total - household composition,26337,4560,3300,4614,4611,3297,2121,1398,2199,26100,237
+2023,14,Otago Region,One-family household (with or without other people),13050,1311,1308,2523,3015,2106,1230,762,717,12972,81
+2023,14,Otago Region,Two-family household (with or without other people),579,39,33,66,93,93,75,63,114,579,0
+2023,14,Otago Region,Three or more family household (with or without other people),18,0,0,0,3,0,3,3,6,18,0
+2023,14,Otago Region,Other multi-person household,4791,633,387,426,558,624,558,417,1179,4779,12
+2023,14,Otago Region,One-person household,6693,2355,1410,1383,741,315,171,90,111,6573,117
+2023,14,Otago Region,Total stated - household composition,25131,4341,3138,4398,4404,3138,2037,1335,2124,24918,210
+2023,14,Otago Region,Household composition unidentifiable,1206,219,162,213,204,162,84,63,72,1179,24
+2023,15,Southland Region,Total - household composition,10236,2445,2457,2844,1827,342,75,15,48,10056,180
+2023,15,Southland Region,One-family household (with or without other people),5418,933,1146,1704,1263,249,39,6,18,5361,54
+2023,15,Southland Region,Two-family household (with or without other people),156,21,24,45,45,12,6,0,3,156,0
+2023,15,Southland Region,Three or more family household (with or without other people),6,3,0,3,0,0,0,0,0,6,0
+2023,15,Southland Region,Other multi-person household,861,216,162,234,180,33,15,6,9,855,9
+2023,15,Southland Region,One-person household,3072,1077,951,687,210,30,3,3,18,2979,93
+2023,15,Southland Region,Total stated - household composition,9516,2250,2289,2673,1698,324,66,12,45,9357,159
+2023,15,Southland Region,Household composition unidentifiable,720,192,171,171,129,21,9,0,3,699,21
+2023,99,Area Outside Region,Total - household composition,69,39,12,3,6,3,3,0,0,66,3
+2023,99,Area Outside Region,One-family household (with or without other people),30,12,9,c..,6,c..,c..,c..,c..,33,c..
+2023,99,Area Outside Region,Two-family household (with or without other people),6,c..,c..,c..,c..,c..,c..,c..,c..,c..,c..
+2023,99,Area Outside Region,Three or more family household (with or without other people),0,c..,c..,c..,c..,c..,c..,c..,c..,c..,c..
+2023,99,Area Outside Region,Other multi-person household,6,c..,c..,c..,c..,c..,c..,c..,c..,c..,c..
+2023,99,Area Outside Region,One-person household,21,15,c..,c..,c..,c..,c..,c..,c..,21,c..
+2023,99,Area Outside Region,Total stated - household composition,60,36,12,c..,6,c..,c..,c..,c..,60,c..
+2023,99,Area Outside Region,Household composition unidentifiable,6,c..,c..,c..,c..,c..,c..,c..,c..,6,c..

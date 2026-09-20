@@ -1,0 +1,127 @@
+household_type,remoteness_area,Owned outright,Owned with a mortgage,Purchased under a shared equity scheme,Rented,Occupied rent free,Occupied under a life tenure scheme,Other,Not stated,Not applicable,Total
+One family household: Couple family with no children,Major Cities of Australia,693510,480370,2341,441062,10342,17539,2467,14915,0,1662560
+One family household: Couple family with no children,Inner Regional Australia,290234,141862,624,72024,3884,4800,857,5734,0,520025
+One family household: Couple family with no children,Outer Regional Australia,124804,62019,160,38176,3591,1038,462,3049,0,233292
+One family household: Couple family with no children,Remote Australia,12533,6339,22,7028,1324,60,93,428,0,27832
+One family household: Couple family with no children,Very Remote Australia,4301,1680,5,4172,1143,42,96,251,0,11694
+One family household: Couple family with no children,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+One family household: Couple family with no children,Total,1125384,692271,3158,562463,20290,23484,3970,24380,0,2455402
+One family household: Couple family with children,Major Cities of Australia,380154,1252127,1701,485862,8987,601,2373,14743,0,2146553
+One family household: Couple family with children,Inner Regional Australia,84007,268036,245,85599,3863,135,588,3135,0,445613
+One family household: Couple family with children,Outer Regional Australia,37908,103681,148,42592,4258,76,444,1576,0,190684
+One family household: Couple family with children,Remote Australia,4688,10469,18,9180,1616,17,81,279,0,26353
+One family household: Couple family with children,Very Remote Australia,1736,2410,6,6942,1236,18,78,223,0,12642
+One family household: Couple family with children,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+One family household: Couple family with children,Total,508486,1636723,2120,630176,19958,849,3566,19951,0,2821839
+One family household: One parent family,Major Cities of Australia,157530,207396,1434,320554,4540,1191,1353,8441,0,702452
+One family household: One parent family,Inner Regional Australia,39860,53533,227,84973,1539,246,358,2926,0,183662
+One family household: One parent family,Outer Regional Australia,16694,21130,109,37768,1078,76,203,1596,0,78659
+One family household: One parent family,Remote Australia,1586,1803,15,5021,236,10,39,239,0,8943
+One family household: One parent family,Very Remote Australia,629,447,6,3657,246,11,31,127,0,5142
+One family household: One parent family,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+One family household: One parent family,Total,216298,284310,1783,451970,7638,1541,1983,13332,0,978859
+One family household: Other family,Major Cities of Australia,22181,16381,135,39588,1403,253,215,1811,0,81965
+One family household: Other family,Inner Regional Australia,5741,3142,30,5734,219,64,63,488,0,15486
+One family household: Other family,Outer Regional Australia,2570,1379,11,3051,157,31,23,289,0,7512
+One family household: Other family,Remote Australia,259,136,0,557,32,3,17,60,0,1062
+One family household: Other family,Very Remote Australia,115,41,0,638,34,4,10,38,0,877
+One family household: Other family,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+One family household: Other family,Total,30866,21089,170,49571,1851,358,325,2676,0,106899
+Two family household: Couple family with no children,Major Cities of Australia,8736,9504,29,4586,132,14,48,319,0,23360
+Two family household: Couple family with no children,Inner Regional Australia,2360,2274,4,712,50,11,11,69,0,5489
+Two family household: Couple family with no children,Outer Regional Australia,816,725,3,347,33,5,5,28,0,1962
+Two family household: Couple family with no children,Remote Australia,95,58,0,91,15,0,3,13,0,261
+Two family household: Couple family with no children,Very Remote Australia,44,20,0,214,20,0,0,0,0,308
+Two family household: Couple family with no children,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Two family household: Couple family with no children,Total,12055,12568,31,5947,251,29,63,433,0,31385
+Two family household: Couple family with children,Major Cities of Australia,16462,38465,97,12340,276,23,147,818,0,68625
+Two family household: Couple family with children,Inner Regional Australia,3355,6038,16,1721,123,6,16,138,0,11409
+Two family household: Couple family with children,Outer Regional Australia,1185,1925,4,979,107,10,8,51,0,4266
+Two family household: Couple family with children,Remote Australia,138,174,3,347,47,0,3,16,0,731
+Two family household: Couple family with children,Very Remote Australia,77,56,0,1084,43,0,5,29,0,1291
+Two family household: Couple family with children,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Two family household: Couple family with children,Total,21214,46659,114,16466,588,34,188,1047,0,86322
+Two family household: One parent family,Major Cities of Australia,11765,13242,79,11055,158,26,75,465,0,36866
+Two family household: One parent family,Inner Regional Australia,3340,3579,4,2687,72,3,18,125,0,9826
+Two family household: One parent family,Outer Regional Australia,1127,1305,5,1311,33,5,10,74,0,3873
+Two family household: One parent family,Remote Australia,90,109,0,358,6,0,0,18,0,589
+Two family household: One parent family,Very Remote Australia,55,34,0,841,28,0,9,14,0,985
+Two family household: One parent family,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Two family household: One parent family,Total,16380,18268,87,16253,303,40,115,692,0,52134
+Two family household: Other family,Major Cities of Australia,320,448,5,564,7,0,4,40,0,1396
+Two family household: Other family,Inner Regional Australia,57,67,0,98,0,0,0,7,0,238
+Two family household: Other family,Outer Regional Australia,26,31,0,65,0,0,0,5,0,130
+Two family household: Other family,Remote Australia,3,5,0,21,0,0,0,0,0,26
+Two family household: Other family,Very Remote Australia,5,0,0,116,0,0,0,0,0,129
+Two family household: Other family,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Two family household: Other family,Total,416,547,5,869,16,0,4,60,0,1924
+Three or more family household: Couple family with no children,Major Cities of Australia,170,345,0,152,10,0,0,22,0,697
+Three or more family household: Couple family with no children,Inner Regional Australia,61,72,0,31,0,0,0,3,0,172
+Three or more family household: Couple family with no children,Outer Regional Australia,15,27,0,19,0,0,0,4,0,65
+Three or more family household: Couple family with no children,Remote Australia,4,3,0,11,0,0,0,0,0,17
+Three or more family household: Couple family with no children,Very Remote Australia,5,0,0,48,3,0,0,0,0,58
+Three or more family household: Couple family with no children,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Three or more family household: Couple family with no children,Total,253,453,0,266,13,0,0,29,0,1011
+Three or more family household: Couple family with children,Major Cities of Australia,686,1830,3,638,15,0,11,68,0,3245
+Three or more family household: Couple family with children,Inner Regional Australia,130,254,0,76,8,0,0,4,0,479
+Three or more family household: Couple family with children,Outer Regional Australia,33,73,0,57,9,0,4,0,0,178
+Three or more family household: Couple family with children,Remote Australia,13,4,0,39,0,0,0,0,0,63
+Three or more family household: Couple family with children,Very Remote Australia,12,0,0,350,15,0,4,8,0,387
+Three or more family household: Couple family with children,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Three or more family household: Couple family with children,Total,877,2158,6,1162,40,0,18,87,0,4348
+Three or more family household: One parent family,Major Cities of Australia,378,700,3,437,5,0,3,26,0,1556
+Three or more family household: One parent family,Inner Regional Australia,80,132,0,89,3,0,4,0,0,313
+Three or more family household: One parent family,Outer Regional Australia,34,43,0,61,0,0,0,0,0,137
+Three or more family household: One parent family,Remote Australia,0,4,0,52,0,0,0,0,0,56
+Three or more family household: One parent family,Very Remote Australia,8,0,0,299,15,0,0,3,0,328
+Three or more family household: One parent family,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Three or more family household: One parent family,Total,507,878,3,941,24,0,9,34,0,2398
+Three or more family household: Other family,Major Cities of Australia,13,27,0,27,0,0,0,4,0,79
+Three or more family household: Other family,Inner Regional Australia,5,6,0,4,0,0,0,0,0,17
+Three or more family household: Other family,Outer Regional Australia,0,0,0,3,0,0,0,0,0,7
+Three or more family household: Other family,Remote Australia,0,0,0,9,0,0,0,0,0,9
+Three or more family household: Other family,Very Remote Australia,0,0,0,28,3,0,0,0,0,28
+Three or more family household: Other family,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Three or more family household: Other family,Total,18,35,0,70,3,0,0,4,0,126
+Lone person household,Major Cities of Australia,579524,328127,4525,627447,20349,33524,5349,38481,0,1637329
+Lone person household,Inner Regional Australia,208281,84281,1087,142831,7316,7764,1743,15934,0,469244
+Lone person household,Outer Regional Australia,91256,38544,357,74302,5637,2199,831,8283,0,221406
+Lone person household,Remote Australia,9593,3920,40,11319,1716,137,188,1418,0,28323
+Lone person household,Very Remote Australia,3993,1065,11,6459,1686,51,112,1052,0,14428
+Lone person household,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,3
+Lone person household,Total,892648,455939,6011,862355,36708,43682,8227,65173,0,2370742
+Group household,Major Cities of Australia,29423,39824,428,202257,2126,593,721,6224,0,281600
+Group household,Inner Regional Australia,11432,10972,91,26399,622,180,187,1369,0,51261
+Group household,Outer Regional Australia,5295,4950,33,12798,428,51,76,795,0,24426
+Group household,Remote Australia,526,605,6,1703,179,8,19,159,0,3193
+Group household,Very Remote Australia,242,132,4,712,141,5,4,99,0,1335
+Group household,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,5
+Group household,Total,46920,56486,566,243871,3503,832,1009,8642,0,361822
+Visitors only household,Major Cities of Australia,15267,7320,101,20802,2039,290,840,8464,0,55119
+Visitors only household,Inner Regional Australia,14834,4324,46,9912,1409,117,674,5485,0,36809
+Visitors only household,Outer Regional Australia,13202,2318,32,9712,1402,50,620,5946,0,33279
+Visitors only household,Remote Australia,6083,593,12,4326,840,26,345,2741,0,14951
+Visitors only household,Very Remote Australia,9977,629,8,4574,1184,25,621,3682,0,20699
+Visitors only household,Migratory - Offshore - Shipping,9,0,0,6,0,0,0,3,0,26
+Visitors only household,Total,59370,15188,191,49332,6880,509,3100,26316,0,160883
+Other non-classifiable household,Major Cities of Australia,364,755,13,2149,51,19,51,227059,0,230456
+Other non-classifiable household,Inner Regional Australia,116,243,3,516,15,4,9,76028,0,76929
+Other non-classifiable household,Outer Regional Australia,68,109,0,330,10,0,7,49570,0,50097
+Other non-classifiable household,Remote Australia,9,12,0,49,3,0,0,9553,0,9630
+Other non-classifiable household,Very Remote Australia,15,8,0,27,4,0,0,5155,0,5210
+Other non-classifiable household,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Other non-classifiable household,Total,574,1122,16,3073,89,21,65,367356,0,372324
+Not applicable,Major Cities of Australia,0,0,0,0,0,0,0,0,0,0
+Not applicable,Inner Regional Australia,0,0,0,0,0,0,0,0,0,0
+Not applicable,Outer Regional Australia,0,0,0,0,0,0,0,0,0,0
+Not applicable,Remote Australia,0,0,0,0,0,0,0,0,0,0
+Not applicable,Very Remote Australia,0,0,0,0,0,0,0,0,0,0
+Not applicable,Migratory - Offshore - Shipping,0,0,0,0,0,0,0,0,0,0
+Not applicable,Total,0,0,0,0,0,0,0,0,0,0
+Total,Major Cities of Australia,1916498,2396856,10888,2169543,50438,54077,13668,321901,0,6933867
+Total,Inner Regional Australia,663897,578816,2377,433409,19128,13340,4533,111449,0,1826962
+Total,Outer Regional Australia,295042,238262,862,221562,16765,3538,2685,71262,0,849973
+Total,Remote Australia,35618,24231,111,40103,6019,257,795,14914,0,122058
+Total,Very Remote Australia,21212,6516,40,30166,5800,164,971,10680,0,75541
+Total,Migratory - Offshore - Shipping,12,5,0,3,3,0,0,5,0,33
+Total,Total,2932277,3244684,14278,2894786,98157,71379,22653,530212,0,9808428
