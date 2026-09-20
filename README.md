@@ -44,9 +44,9 @@ This report aims to examine the relationship between household/family compositio
 
 ## Team
 
-- [Team member 1]
-- [Team member 2]
-- [Team member 3, if applicable]
+- Joseph
+- Cody
+- Tomas
 
 ## Project Structure
 
